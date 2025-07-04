@@ -2,7 +2,7 @@
 
 This is a demo project for a Solana course. I build this on top of a Solana Scaffold project by Solana Labs, with some use case added.
 
-You can see the running service here: (https://solana-dapp-demo.vercel.app/)
+You can see the running service here: (https://solana-dapps-demo.vercel.app/)
 
 # Solana dApp Scaffold Next
 
