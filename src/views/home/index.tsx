@@ -35,7 +35,7 @@ export const HomeView: FC = ({ }) => {
         <div>This is a demo project for a Solana course. I build this on top of a Solana Scaffold project by Solana Labs, with some use case added.
         </div>
 
-        <div>The source repo: <a href='https://github.com/karlvlam/solana-dapp-demo'>https://github.com/karlvlam/solana-dapp-demo</a></div>
+        <div>The source repo: <a href='https://github.com/highgoal215/solana-Dapps_demo'>https://github.com/highgoal215/solana-Dapps_demo</a></div>
 </div>
         <div className='text-sm font-normal align-bottom text-right text-slate-600 mt-4'>v{pkg.version}</div>
         <h1 className="text-center text-5xl md:pl-12 font-bold text-transparent bg-clip-text bg-gradient-to-br from-indigo-500 to-fuchsia-500 mb-4">
